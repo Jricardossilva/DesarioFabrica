@@ -76,10 +76,10 @@ DATABASES = {
     #Banco de dados Externo
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'prepress_fabrica',
-        'USER': 'prepress_jefferson',
-        'PASSWORD': 'DesafioFabrica2024.2',
-        'HOST': 'jeffersonricardo.dev.br',
+        'NAME': 'nome_do_banco',
+        'USER': 'nome_do_usuario',
+        'PASSWORD': 'senha_do_banco',
+        'HOST': 'url_do_banco',
         'PORT': '3306'
    } ,
     
